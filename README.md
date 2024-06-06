@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil 👋
+## Welcome to my profile 👋
 
 <!--
 **ClariceNeves/ClariceNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
